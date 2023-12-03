@@ -1,2 +1,2 @@
-# keygeneratorforme
+# keygeneratorForMe
 A minimal password generator 
